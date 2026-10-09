@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Paras Garg;CSE+(AI/ML)+Student;Frontend+Backend+Developer" alt="Typing animation of my name" />
+</h1>
 
-<!--
-**parasgarg410-svg/parasgarg410-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hi, Paras Garg 👋
+
+First-year CSE (AI/ML) student learning to build things.
+
+## What I'm working on
+- Learning DSA and Python
+- Backend development with FastAPI
+- Exploring AI/ML
+
+## Skills
+Python · FastAPI · SQLite · Git
