@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Paras Garg;CSE+(AI/ML)+Student;Frontend+Backend+Developer" alt="Typing animation of my name" />
 </h1>
 
-
-
-
 # Hi, Paras Garg 👋
 
 First-year CSE (AI/ML) student learning to build things.
